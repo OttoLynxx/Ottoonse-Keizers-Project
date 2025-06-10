@@ -1,0 +1,50 @@
+# ONTWIKKELSTAPPEN OTTOONSE KEIZERS PROJECT
+
+## Must-Have Functies
+
+### Stap 1: Basisprojectstructuur opzetten
+- Maak basisfolderstructuur aan (/content, /images, /interactive)
+- Maak README.md met projectintroductie
+- Branch: basic-structure
+
+### Stap 2: Top 5 Ottoonse Keizers overzicht implementeren
+- Creëer top5_keizers.md met biografieën en afbeeldingen
+- Voeg afbeeldingen toe in /images map
+- Schrijf gedetailleerde informatie over de vijf belangrijkste Ottoonse keizers
+- Branch: top5-keizers
+
+### Stap 3: Tijdlijn van de Ottoonse Dynastie maken
+- Creëer tijdlijn.md met chronologische gebeurtenissen
+- Markeer belangrijke historische momenten 
+- Koppel indien mogelijk naar relevante informatie in andere modules
+- Branch: timeline
+
+### Stap 4: Bibliografie en Bronnen toevoegen
+- Ontwikkel bronnen.md met historische referenties
+- Lijst academische bronnen en andere referentiewerken
+- Maak onderscheid tussen primaire en secundaire bronnen
+- Branch: bibliography
+
+### Stap 5: Centrale styling en integratie
+- Maak styles.css voor consistente styling
+- Creëer index.html als integratiepunt voor alle modules
+- Zorg voor responsief ontwerp
+- Branch: integration
+
+## Nice-to-Have Functies
+
+### Stap 6: Interactieve Kaart ontwikkelen
+- Maak kaart.html en kaart.js voor interactieve kaartvisualisatie
+- Implementeer mogelijkheid om door verschillende tijdperiodes te navigeren
+- Toon veranderingen in rijksgrenzen
+- Branch: interactive-map
+
+### Stap 7: Uitgebreide cultuurinformatie
+- Voeg sectie toe over culturele en artistieke aspecten van het Ottoonse rijk
+- Belichting van architectuur, kunst en muziek
+- Branch: cultural-aspects
+
+### Stap 8: Vergelijkende analyse
+- Creëer een vergelijking tussen de Ottoonse dynastie en andere middeleeuwse dynastieën
+- Analyseer invloed op latere Europese geschiedenis
+- Branch: comparative-analysis
