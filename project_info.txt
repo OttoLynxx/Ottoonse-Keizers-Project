@@ -1,0 +1,40 @@
+# PROJECT INFORMATIE: OTTOONSE KEIZERS
+
+## Projectoverzicht
+Dit project documenteert en presenteert informatie over de Ottoonse keizers, een invloedrijke dynastie in de middeleeuwse Europese geschiedenis die het Heilige Roomse Rijk regeerde van 919 tot 1024.
+
+## Architectuur
+Het project is opgebouwd uit de volgende modules:
+
+### Module 1: Top 5 Ottoonse Keizers
+- **Status**: Gepland
+- **Bestandsnaam**: top5_keizers.md
+- **Pad**: /content/top5_keizers.md
+- **Functionaliteit**: Biedt biografische informatie en afbeeldingen van de vijf belangrijkste Ottoonse keizers
+- **Afhankelijkheid**: Geen
+
+### Module 2: Tijdlijn van de Ottoonse Dynastie
+- **Status**: Gepland
+- **Bestandsnaam**: tijdlijn.md
+- **Pad**: /content/tijdlijn.md
+- **Functionaliteit**: Chronologisch overzicht van belangrijke gebeurtenissen tijdens de Ottoonse dynastie
+- **Afhankelijkheid**: Geen
+
+### Module 3: Interactieve Kaart
+- **Status**: Gepland
+- **Bestandsnaam**: kaart.html, kaart.js
+- **Pad**: /interactive/kaart.html, /interactive/kaart.js
+- **Functionaliteit**: Visualiseert de geografische omvang van het Ottoonse rijk op verschillende momenten
+- **Afhankelijkheid**: Vereist een basis HTML/CSS structuur
+
+### Module 4: Bibliografie en Bronnen
+- **Status**: Gepland
+- **Bestandsnaam**: bronnen.md
+- **Pad**: /content/bronnen.md
+- **Functionaliteit**: Lijst van historische bronnen en moderne referentiewerken
+- **Afhankelijkheid**: Geen
+
+### Ondersteunende Bestanden
+- **README.md**: Projectintroductie en handleiding
+- **styles.css**: Centrale stijlsheet voor het project
+- **index.html**: Hoofdpagina die alle modules integreert
