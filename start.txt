@@ -1,0 +1,14 @@
+# Ottoonse Keizers Project
+
+Dit project richt zich op het documenteren en presenteren van informatie over de Ottoonse keizers, een belangrijke dynastie in de middeleeuwse Europese geschiedenis. De Ottoonse dynastie regeerde het Heilige Roomse Rijk van 919 tot 1024.
+
+## Doel van het project
+- Informatie verstrekken over de belangrijkste Ottoonse keizers
+- Historische context en betekenis van hun regeringsperiode weergeven
+- Visuele en tekstuele presentatie van deze historische figuren
+
+## Geplande modules
+- Top 5 Ottoonse keizers overzicht (biografieën en afbeeldingen)
+- Tijdlijn van de Ottoonse dynastie
+- Interactieve kaart van het Ottoonse rijk
+- Bibliografie en bronnen voor verder onderzoek
